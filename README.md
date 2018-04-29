@@ -1,5 +1,5 @@
 # Python-EmotionVariability1
-Python code for analyses and plots on Carr &amp; Slepian (under revision) paper:
+Python code for analyses and plots on Carr &amp; Slepian paper (under revision):
 
 Here is the main Python code for analyses & plots on a paper entitled "The social benefits of emotion variability" (Carr & Slepian, under revision). The current abstract for the paper is below (any other questions on the paper or code, please email Evan Carr at carr324@gmail.com; note that this data and manuscript are still in progress):
 
