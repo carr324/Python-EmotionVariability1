@@ -1,6 +1,7 @@
 # Python-EmotionVariability1
-Python code for analyses and plots on Carr &amp; Slepian paper (under revision):
+Python code for analyses and plots on Slepian &amp; Carr paper (2019).
 
-Here is the main Python code for analyses & plots on a paper entitled "The social benefits of emotion variability" (Carr & Slepian, under revision). The current abstract for the paper is below (any other questions on the paper or code, please email Evan Carr at carr324@gmail.com; note that this data and manuscript are still in progress):
+Here is the main Python code for analyses & plots on a paper entitled "Facial expressions of authenticity: Emotion variability increases judgments of trustworthiness and leadership" (Slepian & Carr, 2019).
 
-"We automatically create first impressions from others’ faces, even with limited time and information. Most research on social face evaluation focuses on static morphological features that are embedded “in the face” (e.g., overall average of facial features, masculinity/femininity cues related to positivity/negativity, etc.). Here, we offer the first investigation of how variability in facial emotion affects social evaluations. Subjects evaluated targets that, over time, displayed either high-variability or low-variability distributions of positive (happy) and/or negative (angry/fearful) facial expressions, despite overall averages of those facial features always being the same across conditions. We found that high-variability led to consistently positive perceptions of authenticity, and thereby, judgments of perceived happiness, trustworthiness, and leadership. Overall, people do not merely average or summarize over facial expressions to arrive at a judgment, but instead draw inferences from the variability of those expressions."
+**NOTE:** Since this repo was first posted, this paper has since been published in 
+*Cognition*.  You can find the paper [here](https://evanwalkercarr.weebly.com/publications.html), and the most updated version of the code can be found on OSF [here](https://osf.io/62cqj/). 
